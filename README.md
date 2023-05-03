@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Michalis ~flevos</h1>
 <h3 align="center">Passionate Programmer | Aviation Enthusiast</h3>
 
+Welcome to my profile! Here, you will find a collection of my projects and code snippets that I have worked on during the span of my journey with programming. I am currently a Computer Science student, always seeking to expand my knowledge and skills in the field. I am very interested in Web Programming and creating applications!
+
+I hope that my projects inspire and contribute to the growth of the community. Feel free to explore my repositories and reach out to me with any questions or feedback to improve.
+
 - 📫 How to reach me **michail@flevaris.gr**
 
 - ⚡ Fun fact **I love airplanes!**
