@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Michalis ~flevos</h1>
 <h3 align="center">Passionate Programmer | Aviation Enthusiast</h3>
 
+- 📫 How to reach me **michail@flevaris.gr**
+
+- ⚡ Fun fact **I love airplanes!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mflevaris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mflevaris/" height="30" width="40" /></a>
