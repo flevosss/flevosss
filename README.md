@@ -10,6 +10,8 @@ Feel free to explore my repositories and reach out to me with any questions or f
 - 📫 Reach me via => **michail@flevaris.gr**
 
 - ⚡ Fun fact => **I love airplanes!**
+ 
+- 🌱 I am currently learning =>  **Java swing framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
