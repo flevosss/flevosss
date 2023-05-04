@@ -9,7 +9,7 @@ Feel free to explore my repositories and reach out to me with any questions or f
 
 - 📫 Reach me via => **michail@flevaris.gr**
 
-- ⚡ Fun fact => **I love airplanes!**
+- ⚡ Fun fact => **I love aviation!**
  
 - 📚 I am currently learning =>  **Java swing framework**
 
