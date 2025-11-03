@@ -1,13 +1,11 @@
 <h1 align="center">I'm Michalis ~flevos👋</h1>
 <h2 align="center">Fullstack Developer </h2>
 
-Welcome to my profile! Here, you will find a collection of my projects that I have worked on during the span of my journey with programming. I am currently a Computer Science student, always seeking to expand my knowledge and skills in the field. I am very interested in creating secure web applications and CyberSecurity.
-
-I hope that my projects inspire and contribute to the growth of the community. 
+Welcome to my profile! Here, you will find a collection of my projects that I have worked on during the span of my journey with programming. I am currently a Bsc.Computer Science student, always seeking to expand my knowledge and skills in the field. I am interested in creating secure web applications!
 
 Feel free to explore my repositories and reach out to me with any questions or feedback to improve.
 
-- 📫 Reach me via => **michail@flevaris.gr**
+- 📫 Reach me via => **michalis@flevaris.gr**
 
 - ⚡ Fun fact => **I love aviation!** 
  
