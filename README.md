@@ -1,5 +1,5 @@
 <h1 align="center">I'm Michalis ~flevos👋</h1>
-<h2 align="center">Fullstack Developer </h2>
+<h2 align="center">Developer & (Head) Teaching Assistant @UTwente</h2>
 
 Welcome to my profile! Here, you will find a collection of my projects that I have worked on during the span of my journey with programming. I am currently a Bsc.Computer Science student, always seeking to expand my knowledge and skills in the field. I am interested in creating secure web applications!
 
