@@ -6,7 +6,7 @@ Welcome to my profile! Here, you will find a collection of my projects that I ha
 Feel free to explore my repositories and reach out to me with any questions or feedback to improve.
 
 - 📫 You can reach me via => **michalis@flevaris.gr**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mflevaris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mflevaris/" height="30" width="40" /></a>
